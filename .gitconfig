@@ -1,0 +1,10 @@
+[user]
+        name = Dwayne Anderson
+        email = dwayne.anderson@gmail.com
+[color]
+        ui = true
+[merge]
+        tool = opendiff
+[diff]
+        tool = opendiff
+ 
